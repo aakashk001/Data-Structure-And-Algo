@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding_n_Fun\\DSA_Practice\\dsa_revision\\dsa_revision.csproj",
+      "projectUniqueName": "D:\\Coding_n_Fun\\DSA_Practice\\Data_Structure_And_Algo_Git\\Data-Structure-And-Algo\\dsa_revision.csproj",
       "projectName": "dsa_revision",
-      "projectPath": "D:\\Coding_n_Fun\\DSA_Practice\\dsa_revision\\dsa_revision.csproj",
+      "projectPath": "D:\\Coding_n_Fun\\DSA_Practice\\Data_Structure_And_Algo_Git\\Data-Structure-And-Algo\\dsa_revision.csproj",
       "packagesPath": "C:\\Users\\aakas\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding_n_Fun\\DSA_Practice\\dsa_revision\\obj\\",
+      "outputPath": "D:\\Coding_n_Fun\\DSA_Practice\\Data_Structure_And_Algo_Git\\Data-Structure-And-Algo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aakas\\AppData\\Roaming\\NuGet\\NuGet.Config",

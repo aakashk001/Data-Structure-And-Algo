@@ -142,6 +142,8 @@ namespace MyApp
 
              root.Left.Left = new Tree_Node(4);
              root.Left.Right = new Tree_Node(5);
+             root.Left.Left.Left = new Tree_Node(6);
+             root.Left.Right.Right = new Tree_Node(7);
             Tree tree = new Tree();
            // List<int> list = new List<int>();
           //  tree.PreOrderTraversal(root, list);
