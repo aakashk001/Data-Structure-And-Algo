@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding_n_Fun\\DSA_Practice\\dsa_revision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F64C9F7-8AB7-4631-A5B0-5F940834B37C}|dsa_revision.csproj|d:\\coding_n_fun\\dsa_practice\\dsa_revision\\components\\trees\\trees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F64C9F7-8AB7-4631-A5B0-5F940834B37C}|dsa_revision.csproj|solutionrelative:components\\trees\\trees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F64C9F7-8AB7-4631-A5B0-5F940834B37C}|dsa_revision.csproj|d:\\coding_n_fun\\dsa_practice\\dsa_revision\\components\\trees\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F64C9F7-8AB7-4631-A5B0-5F940834B37C}|dsa_revision.csproj|solutionrelative:components\\trees\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F64C9F7-8AB7-4631-A5B0-5F940834B37C}|dsa_revision.csproj|d:\\coding_n_fun\\dsa_practice\\dsa_revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F64C9F7-8AB7-4631-A5B0-5F940834B37C}|dsa_revision.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F64C9F7-8AB7-4631-A5B0-5F940834B37C}|dsa_revision.csproj|d:\\coding_n_fun\\dsa_practice\\dsa_revision\\components\\hashing\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F64C9F7-8AB7-4631-A5B0-5F940834B37C}|dsa_revision.csproj|solutionrelative:components\\hashing\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trees.cs",
+              "DocumentMoniker": "D:\\Coding_n_Fun\\DSA_Practice\\dsa_revision\\Components\\Trees\\Trees.cs",
+              "RelativeDocumentMoniker": "Components\\Trees\\Trees.cs",
+              "ToolTip": "D:\\Coding_n_Fun\\DSA_Practice\\dsa_revision\\Components\\Trees\\Trees.cs",
+              "RelativeToolTip": "Components\\Trees\\Trees.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAMwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:45:06.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Coding_n_Fun\\DSA_Practice\\dsa_revision\\Components\\Trees\\Node.cs",
+              "RelativeDocumentMoniker": "Components\\Trees\\Node.cs",
+              "ToolTip": "D:\\Coding_n_Fun\\DSA_Practice\\dsa_revision\\Components\\Trees\\Node.cs",
+              "RelativeToolTip": "Components\\Trees\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:47:20.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hash.cs",
+              "DocumentMoniker": "D:\\Coding_n_Fun\\DSA_Practice\\dsa_revision\\Components\\Hashing\\Hash.cs",
+              "RelativeDocumentMoniker": "Components\\Hashing\\Hash.cs",
+              "ToolTip": "D:\\Coding_n_Fun\\DSA_Practice\\dsa_revision\\Components\\Hashing\\Hash.cs",
+              "RelativeToolTip": "Components\\Hashing\\Hash.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:55:23.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding_n_Fun\\DSA_Practice\\dsa_revision\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding_n_Fun\\DSA_Practice\\dsa_revision\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:22:03.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
